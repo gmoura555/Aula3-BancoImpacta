@@ -1,0 +1,15 @@
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula3\ExemploEnum\bin\Debug\net6.0\ExemploEnum.exe
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula3\ExemploEnum\bin\Debug\net6.0\ExemploEnum.deps.json
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula3\ExemploEnum\bin\Debug\net6.0\ExemploEnum.runtimeconfig.json
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula3\ExemploEnum\bin\Debug\net6.0\ExemploEnum.dll
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula3\ExemploEnum\bin\Debug\net6.0\ExemploEnum.pdb
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula3\ExemploEnum\obj\Debug\net6.0\ExemploEnum.csproj.AssemblyReference.cache
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula3\ExemploEnum\obj\Debug\net6.0\ExemploEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula3\ExemploEnum\obj\Debug\net6.0\ExemploEnum.AssemblyInfoInputs.cache
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula3\ExemploEnum\obj\Debug\net6.0\ExemploEnum.AssemblyInfo.cs
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula3\ExemploEnum\obj\Debug\net6.0\ExemploEnum.csproj.CoreCompileInputs.cache
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula3\ExemploEnum\obj\Debug\net6.0\ExemploEnum.dll
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula3\ExemploEnum\obj\Debug\net6.0\refint\ExemploEnum.dll
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula3\ExemploEnum\obj\Debug\net6.0\ExemploEnum.pdb
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula3\ExemploEnum\obj\Debug\net6.0\ExemploEnum.genruntimeconfig.cache
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula3\ExemploEnum\obj\Debug\net6.0\ref\ExemploEnum.dll

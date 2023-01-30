@@ -1,0 +1,30 @@
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula3\BancoImpacta\bin\Debug\net6.0\BancoImpacta.exe
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula3\BancoImpacta\bin\Debug\net6.0\BancoImpacta.deps.json
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula3\BancoImpacta\bin\Debug\net6.0\BancoImpacta.runtimeconfig.json
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula3\BancoImpacta\bin\Debug\net6.0\BancoImpacta.dll
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula3\BancoImpacta\bin\Debug\net6.0\BancoImpacta.pdb
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula3\BancoImpacta\obj\Debug\net6.0\BancoImpacta.csproj.AssemblyReference.cache
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula3\BancoImpacta\obj\Debug\net6.0\BancoImpacta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula3\BancoImpacta\obj\Debug\net6.0\BancoImpacta.AssemblyInfoInputs.cache
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula3\BancoImpacta\obj\Debug\net6.0\BancoImpacta.AssemblyInfo.cs
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula3\BancoImpacta\obj\Debug\net6.0\BancoImpacta.csproj.CoreCompileInputs.cache
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula3\BancoImpacta\obj\Debug\net6.0\BancoImpacta.dll
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula3\BancoImpacta\obj\Debug\net6.0\refint\BancoImpacta.dll
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula3\BancoImpacta\obj\Debug\net6.0\BancoImpacta.pdb
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula3\BancoImpacta\obj\Debug\net6.0\BancoImpacta.genruntimeconfig.cache
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula3\BancoImpacta\obj\Debug\net6.0\ref\BancoImpacta.dll
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\Aula3\BancoImpacta\bin\Debug\net6.0\BancoImpacta.exe
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\Aula3\BancoImpacta\bin\Debug\net6.0\BancoImpacta.deps.json
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\Aula3\BancoImpacta\bin\Debug\net6.0\BancoImpacta.runtimeconfig.json
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\Aula3\BancoImpacta\bin\Debug\net6.0\BancoImpacta.dll
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\Aula3\BancoImpacta\bin\Debug\net6.0\BancoImpacta.pdb
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\Aula3\BancoImpacta\obj\Debug\net6.0\BancoImpacta.csproj.AssemblyReference.cache
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\Aula3\BancoImpacta\obj\Debug\net6.0\BancoImpacta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\Aula3\BancoImpacta\obj\Debug\net6.0\BancoImpacta.AssemblyInfoInputs.cache
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\Aula3\BancoImpacta\obj\Debug\net6.0\BancoImpacta.AssemblyInfo.cs
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\Aula3\BancoImpacta\obj\Debug\net6.0\BancoImpacta.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\Aula3\BancoImpacta\obj\Debug\net6.0\BancoImpacta.dll
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\Aula3\BancoImpacta\obj\Debug\net6.0\refint\BancoImpacta.dll
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\Aula3\BancoImpacta\obj\Debug\net6.0\BancoImpacta.pdb
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\Aula3\BancoImpacta\obj\Debug\net6.0\BancoImpacta.genruntimeconfig.cache
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\Aula3\BancoImpacta\obj\Debug\net6.0\ref\BancoImpacta.dll
